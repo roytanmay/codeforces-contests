@@ -1,0 +1,1 @@
+prefixXor ^ (j * j)
