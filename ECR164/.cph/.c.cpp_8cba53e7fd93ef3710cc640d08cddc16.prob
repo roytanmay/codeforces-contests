@@ -1,0 +1,1 @@
+{"name":"Local: c","url":"d:\\Coding\\codeforces contest\\ECR164\\c.cpp","tests":[{"id":1712935523168,"input":"3\n73\n31\n2\n5\n3516\n3982","output":"71\n33\n5\n2\n3912\n3586"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\codeforces contest\\ECR164\\c.cpp","group":"local","local":true}

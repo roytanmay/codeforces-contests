@@ -1,0 +1,1 @@
+{"name":"Local: c","url":"d:\\Coding\\codeforces contest\\ECR 163\\c.cpp","tests":[{"id":1712845678188,"input":"4\n4\n>><<\n>>><\n2\n><\n><\n4\n>>><\n>><<\n6\n>><<><\n><>>><\n","output":"YES\nYES\nNO\nYES\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\codeforces contest\\ECR 163\\c.cpp","group":"local","local":true}
