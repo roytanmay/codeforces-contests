@@ -1,0 +1,1 @@
+{"name":"Local: a","url":"d:\\Coding\\codeforces contest\\round 950\\a.cpp","tests":[{"id":1717425458907,"input":"3\n10 1\nBGECDCBDED\n10 2\nBGECDCBDED\n9 1\nBBCDEFFGG\n","output":"2\n5\n1\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\codeforces contest\\round 950\\a.cpp","group":"local","local":true}
